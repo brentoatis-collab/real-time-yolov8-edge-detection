@@ -1,0 +1,19 @@
+# ==========================================================
+# CST 544 - Week 7 Assignment
+# Real-Time Computer Vision Application Using YOLOv8
+# Brent Oatis
+# ==========================================================
+
+ultralytics>=8.4.0
+opencv-python>=4.12.0
+torch>=2.7.0
+torchvision>=0.22.0
+numpy>=2.3.0
+pandas>=2.3.0
+matplotlib>=3.10.0
+pillow>=11.0.0
+pyyaml>=6.0
+requests>=2.32.0
+scipy>=1.16.0
+tqdm>=4.67.0
+psutil>=7.0.0
