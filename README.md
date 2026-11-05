@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Deploying real-time object detection for edge inspection, safety, and operational visibility.
+
 # Smart Surveillance AI
 
 Real-Time Object Detection using YOLOv8
