@@ -91,7 +91,7 @@ Week7_RealTimeYOLOObjectDetection/
 Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/brentoatis-collab/real-time-yolov8-edge-detection.git
 ```
 
 Navigate into the project.
@@ -294,6 +294,6 @@ Ultralytics. (2024). *YOLOv8 Documentation.* https://docs.ultralytics.com/
 
 **Brent Oatis**
 
-MBA Candidate | AI & Computer Vision | Manufacturing & Operations Leadership
+MBA | AI & Computer Vision | Manufacturing & Operations Leadership
 
 *"Bringing together artificial intelligence, manufacturing excellence, and operational leadership to build intelligent systems that solve real-world problems."*
